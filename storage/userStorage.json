@@ -1,0 +1,272 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "Z5nXVO1yFAMc5VBnpLXqa8rnVTiM9rln3Q4AfJlnYxQ-1745376926-1.0.1.1-L8iPFLzxdWnHlciiecATCn9H.fB5udXhYjxd9vDQ7sjRnHz4Fo8vIiY8aO9.rsif",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": 1745378726.843221,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "Q031_6ID87NDgUMxxlYpOhe2FG4MGn8OOF3h.AAxR0s-1745376926768-0.0.1.1-604800000",
+      "domain": ".vimeo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CookieConsent",
+      "value": "{stamp:%27GNY+tX86crgUQrktV9leeWwopn3MAQqbnkOGavV8Nato5bsnvKr+mA==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1745376928994%2Cregion:%27kh%27}",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1776912928,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_c_1",
+      "value": "true",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936929.307945,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_c_2",
+      "value": "true",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936929.308197,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_c_3",
+      "value": "true",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936929.308441,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_c_banner",
+      "value": "false",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936929.308627,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "17371dd0-d141-4295-b679-af251d6e8704",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1776912931,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1745376929976.255784526903799828",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1753152931,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.75727164.1745376930",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1745463330,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_216821357_1",
+      "value": "1",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1745376990,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.368726733.1745376930",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1779936930.124131,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__kla_id",
+      "value": "eyJjaWQiOiJNbU13WkdNek5ESXRaRFEzTkMwME56STJMVGhtWldFdE1URTFNR0U1WVRSaE9UUTUiLCIkcmVmZXJyZXIiOnsidHMiOjE3NDUzNzY5MzAsInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vYmV0YS52aXp6eS5jb20vIn0sIiRsYXN0X3JlZmVycmVyIjp7InRzIjoxNzQ1Mzc2OTMwLCJ2YWx1ZSI6IiIsImZpcnN0X3BhZ2UiOiJodHRwczovL2JldGEudml6enkuY29tLyJ9fQ==",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.175952,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_n_u",
+      "value": "false",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936931.699591,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_loggedIn",
+      "value": "true",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936931.699008,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_ac_to",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cGUiOiJKV1QiLCJraWQiOiJlN2I4NjdjYi1hYmU1LTRiNGMtYTdkNy0zM2U1MGRiZTFiMTEifQ.eyJ1c2VySWQiOiI3YTgyOGVlYy1iMjY2LTQ1NGItOWZmNC01YzY5NzViMDVmNWYiLCJwZXJtaXNzaW9ucyI6W10sInJlYWxtIjoiV0VCU0lURSIsImF1ZGllbmNlIjoidXNlcnMiLCJleHBpcmVzSW4iOjE3NDU0NjMzMzAzMTh9.TQyQvI43Sgwtane9zzKGEhLy1iohdD3RLl-ezYj63XjmY-fMOeVrf1gyU-1E-nxDI3ANAtPQXnWQYQtIGXrpojwgR4qFx8dJHXYaF4AafjED8ReCd1k-ygILkVkuRd5O1YpC_-ZBiysX2Q_QGurxy0MzjUj69cLKXjij_vQucZwIxr79jxmuHkdzC5ffbDOA1basKP4nVmHHvflgAwQKMf26gTHUD8N5oNwLiZURVqrVxuCVoVhk-QfQ7hdXyCrhMqaUhQ6_1yrxgLXeoG8-5zUeQoHf4lo92vo1SiQq1GxJ4JuO4IsY2nAneJKClK3TwndD8g7TpUqnZmwEvyfAyvjVhrfqutw1fYgjO0SVWBELSIEOuW0-CK0URkZnX5RBTwor0tuxO8Hhe8LhUYUPAqWKgiU1xNYnnFb1yYRZHmv0mHPJgCLrpHIM2jca8cnxtblQAlbGdSRpB63uf6lgawNLqK4nF9Deuwrh7Go-gg5MoD1rN3_e3sI7U8GgTJwYO_jKt27G6zYz8ea0jXzTopmikeTQtqFF7TLVyyjemAhIZbDd_9Eh4YRm_m_OrTgsv_eZcFPtJNXgaRL3QNcTEAUm5BjIZ93qu9NnFrSpdlulxmydvyBvfRhcCgpXS9HPa_jNVippo9vNnCUeH-pBgb0dj8iu6IafWIx5vlK5V0k",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.676871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_re_to",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cGUiOiJKV1QiLCJraWQiOiJlN2I4NjdjYi1hYmU1LTRiNGMtYTdkNy0zM2U1MGRiZTFiMTEifQ.eyJ1c2VySWQiOiI3YTgyOGVlYy1iMjY2LTQ1NGItOWZmNC01YzY5NzViMDVmNWYiLCJyZWFsbSI6IldFQlNJVEUiLCJhdWRpZW5jZSI6InNlcnZlciIsImV4cGlyZXNJbiI6MTc0Nzk2ODkzMDM1MSwicGVybWlzc2lvbnMiOltdfQ.oR0iIkqUJFd9gFaXAl2iT-LgxqjKPB6Wvy6R7zfDWsdI_afgxclMS-VV4sCbpdi_3QNjhUNh2Juooj4YiQiUmG_EX8B7R2eLWfx4_B3wlcrYUekqSw6QamAEunc0mW9JsBpjYlA9AsvpxRutyNwrvKRxGfRghj0e_4_Z24zve2iK_d7-85mHPDIZC5i18IVLHwp0rJWouEDQw2-GZFdeKeyX_v6j_yYgPz_W6t9-soHWXKB6XIWuvI7hfVqEC6gYGo2ygZOWHhX0ytnCc_DmX9q-2UFNpP4y9htVBsEIYK5UOFGzeEra7IsmHySZpDQPR5XFYpOgHz04ioOFo_I5srdtpJgNcpqQFYuNtfSgOvHzxK5gEiFj0zqjCLUIJ4ok_rKKEjYDeqjWLMhwb0oLElR3Hmi4cL6kwx64-iHLC-BnYTooKGQ5e6IoT7OsatVAgb_CadF7ATmPWhc41Srn3Lusn9O7OlQ6mkFOYc4eqM-k-jcxFixmGIMX557H_qcaFQ_27ATc7XiY1tgvLaLPAa93aAFRbx1PgejLYFak35LkRBEir_HMcpFU-VSprbYHulOHRRP1zjGU8Fs67SRRWizxi0gVl0InoARnpBKM4UJ86qG5lEdT8DsuezBmLs3L8Cjdou3_Ci1iqQFds6SAy5rdiRZc4OjXvXpw-aVXP7s",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.677402,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_pe_ro",
+      "value": "01",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.678895,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_us_id",
+      "value": "7a828eec-b266-454b-9ff4-5c6975b05f5f",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.679243,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_us_em",
+      "value": "jspiseth%2Bvizzybeta%40gmail.com",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.679464,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vizzy_us_ev",
+      "value": "true",
+      "domain": "beta.vizzy.com",
+      "path": "/",
+      "expires": 1779936930.679751,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_DJ3Q4H9NMW",
+      "value": "GS1.1.1745376930.1.1.1745376931.0.0.0",
+      "domain": ".vizzy.com",
+      "path": "/",
+      "expires": 1779936931.713057,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://beta.vizzy.com",
+      "localStorage": [
+        {
+          "name": "uw-icon-locales",
+          "value": "{\"version\":\"2025-04-22-09-13-51\",\"en-GB\":{\"widget\":{\"html_lst_title\":\"Translations Menu\",\"html_title\":\"Accessibility Menu\",\"text_icon_small\":\"Accessibility\",\"text_icon_large\":\"Accessibility</br>Menu\",\"new_tab\":\"open in a new tab\",\"broken_links\":{\"target_site_not_available\":\"target website may not be available\"}},\"skip_links\":{\"open_accessibility_nav\":\"Open the Accessible Navigation Menu\",\"open_accessibility_menu\":\"Open the accessibility menu\",\"skip\":\"Skip to main content\",\"enable_visually_impaired\":\"Enable accessibility for low vision\",\"disable_visually_impaired\":\"Disable accessibility for low vision\",\"title\":\"Quick Accessibility Options\"}}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1745376929965"
+        },
+        {
+          "name": "uw-tunings",
+          "value": "{\"tunings\":{\"widget_language\":null,\"widget_color\":\"#000000\",\"widget_position\":\"5\",\"widget_icon_type\":\"1\",\"widget_icon_size\":\"small\",\"widget_position_mobile\":\"5\",\"widget_no_follow\":true,\"widget_custom_trigger\":\"accessibilityWidget\",\"widget_position_nudge\":\"{\\\"moveX\\\":10,\\\"moveY\\\":5,\\\"xOrientation\\\":\\\"right\\\",\\\"yOrientation\\\":\\\"top\\\"}\",\"site_name\":\"beta.vizzy.com\",\"widget_no_report\":true},\"services\":{\"siteId\":3753525,\"userId\":499281,\"noManage\":false,\"noLogo\":false,\"CUSTOM_BRANDING\":{\"is_enabled\":true,\"is_renewable\":false,\"custom_logo_image_path\":\"\",\"custom_logo_image_link\":\"\"},\"MODIFY_MENU\":{\"is_enabled\":true,\"is_renewable\":false,\"features_pattern\":\"s9|s3|s18|s6|s4|s14|s13|s25|s7|s2|s12|s11|s17|s19|s21|s23\",\"color_mode\":\"default\",\"dictionary\":true,\"profiles\":true,\"two_columns_layout\":true,\"oversized\":true},\"LIVE_TRANSLATIONS\":{\"is_enabled\":true,\"is_renewable\":false,\"auto_translation\":true,\"autoTranslation\":true,\"overrides\":{},\"noTranslates\":[],\"ignoreWords\":null,\"remainingChars\":970346,\"translationAllowed\":true},\"paidAi\":true},\"remediation\":{},\"remediationV2\":{\"strategy\":\"AUTO\",\"consolidated\":\"https://cdn.userway.org/remediations/consolidated/3753525/yMbahwzZaS9eqF21.json\",\"version\":0},\"imageAlt\":{\"version\":\"ALTS_V2\",\"resourceHash\":\"JvM0yq5PcJz8TA3n\",\"tier\":\"PAID_QUOTA_TIER\",\"quota\":5000,\"usage\":936,\"state\":\"ALTS_ON\",\"missingAlts\":[]},\"widgetCustomLanguages\":[]}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "uw-uid",
+          "value": "2de5ae5b-7edf-4bed-aaa8-8970bf23ec54"
+        },
+        {
+          "name": "uw-tunings-checksum",
+          "value": "f8cdb3ba6b7962858413437e657c144e60dedb7f9278f6c4d3906f7745da87b2"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"17371dd0-d141-4295-b679-af251d6e8704\""
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "WYkZqElCvXUNW8nHSLtbALVWtGuXdu6nI7aHkt9nOBY-1745376927-1.3.1.1-K1VcgxWELlYobt8dIWTrGVJxncNncYwfJ.Xt.vonRn4_zYIXCx5aTSNvpE9r2y.t"
+        }
+      ]
+    }
+  ]
+}

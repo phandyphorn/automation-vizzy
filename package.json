@@ -1,0 +1,23 @@
+{
+  "name": "vizzy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:dev": "TEST_ENV=dev npx playwright test",
+    "test:beta": "TEST_ENV=beta npx playwright test",
+    "test:prod": "TEST_ENV=prod npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^22.13.16",
+    "@types/testing-library__react": "^10.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
