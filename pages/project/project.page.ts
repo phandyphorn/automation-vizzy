@@ -2,7 +2,7 @@ import { expect, Locator, Page } from "@playwright/test";
 import { ProjectPageLocator } from "./project.locator";
 import path from "path";
 
-export class projectPage {
+export class ProjectPage {
   constructor(
     readonly page: Page,
     readonly locator = new ProjectPageLocator(page)

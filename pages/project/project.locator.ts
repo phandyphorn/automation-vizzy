@@ -7,9 +7,9 @@ export class ProjectPageLocator {
     return this.page.getByRole("button", { name: "Content", exact: true });
   }
 
-  get contentCard(): Locator {
-    return this.page.getByRole("button", { name: "Content", exact: true });
-  }
+  // get contentCard(): Locator {
+  //   return this.page.getByRole("button", { name: "Content", exact: true });
+  // }
 
   get addProject(): Locator {
     return this.page.getByRole("button", {

@@ -1,4 +1,4 @@
-import { TestData, User } from "./types";
+import { TestData } from "./types";
 
 export const testData: TestData = {
   users: [

@@ -44,7 +44,6 @@ export class ProfilePage {
   }
 
   async deleteProfile() {
-    // await this.locator.profileStorage.hover();
     await this.locator.profileStorageAfterEdit.hover();
     await this.locator.editIcon.click();
     await this.locator.selectFile.click();
@@ -77,21 +76,41 @@ export class ProfilePage {
     return this;
   }
 
+  // async addAllMedia() {
+  //   await this.locator.uploadProfile.hover();
+  //   await this.locator.addImage.click();
+  //   await this.locator.uploadFile.click();
+  //   await this.locator.imageField.setInputFiles(
+  //     path.join(__dirname, "yaoyao.jpg")
+  //   );
+  //   await this.locator.saveProfilePicture.click();
+  //   await this.locator.videoField.fill(
+  //     "https://www.youtube.com/watch?v=vvKUuFk_uWI"
+  //   );
+  //   await this.locator.saveProfile.click({ force: true });
+  //   await this.locator.videoPlay.click();
+  //   await this.locator.escape.press("Escape");
+  //   return this;
+  // }
+
   async addAllMedia() {
-    await this.locator.uploadProfile.hover();
-    await this.locator.addImage.click();
-    await this.locator.uploadFile.click();
-    await this.locator.imageField.setInputFiles(
-      path.join(__dirname, "yaoyao.jpg")
-    );
-    await this.locator.saveProfilePicture.click();
-    await this.locator.videoField.fill(
-      "https://www.youtube.com/watch?v=vvKUuFk_uWI"
-    );
-    await this.locator.saveProfile.click({ force: true });
-    await this.locator.videoPlay.click();
-    await this.locator.escape.press("Escape");
-    return this;
+    try {
+      const l = this.locator;
+      await l.uploadProfile.hover();
+      await l.addImage.click();
+      await l.uploadFile.click();
+      await l.imageField.setInputFiles(path.join(__dirname, "yaoyao.jpg"));
+      await l.saveProfilePicture.click();
+      await l.videoField.fill("https://www.youtube.com/watch?v=vvKUuFk_uWI");
+      await l.saveProfile.click({ force: true });
+      await l.videoPlay.click();
+      await l.escape.press("Escape");
+
+      return this;
+    } catch (err) {
+      console.error("❌ addAllMedia failed:", err);
+      throw err;
+    }
   }
 
   async removeAllMedia() {

@@ -1,6 +1,6 @@
 import test, { chromium, expect } from "@playwright/test";
 import { getTestContext } from "../utils/test-setup";
-import { projectPage } from "../pages/project/project.page";
+import { ProjectPage } from "../pages/project/project.page";
 
 test(`Add Project`, async ({ page }) => {
   const browser = await chromium.launch();
@@ -9,7 +9,7 @@ test(`Add Project`, async ({ page }) => {
   });
   // Create a new page with this pre-authenticated context
   const newPage = await context.newPage();
-  const project = new projectPage(page);
+  const project = new ProjectPage(page);
   const { url } = await getTestContext(newPage);
   await project.launch(url);
   await project.addProject();

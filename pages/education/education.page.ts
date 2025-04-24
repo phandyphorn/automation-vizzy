@@ -1,4 +1,4 @@
-import { expect, Page } from "@playwright/test";
+import { Page } from "@playwright/test";
 import { EducationPageLocator } from "./education.locator";
 
 export class EducationPage {
